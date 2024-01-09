@@ -11,9 +11,9 @@ body {
   margin: 50px auto;
   background-repeat: no-repeat;
   border-radius: 16px;
-  background-image: url('./resources/banner_image.png');
-  background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0) 100%),
-    url('./resources/banner_image.png');
+  background-image: url('./resources/bannerimage.png');
+  /* background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0) 100%),
+    url('./resources/bannerimage.png'); */
 }
 .banner-text {
   padding: 120px;
@@ -87,8 +87,8 @@ body {
   background-repeat: no-repeat;
   border-radius: 16px;
   background-image: url('./resources/vector.png');
-  background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0) 100%),
-    url('./resources/vector.png');
+  /* background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0) 100%),
+    url('./resources/vector.png'); */
 }
 .welcome-banner-content {
   align-items: center;

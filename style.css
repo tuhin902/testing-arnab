@@ -11,7 +11,7 @@ body {
   margin: 50px auto;
   background-repeat: no-repeat;
   border-radius: 16px;
-  background-image: url('./resources/bannerimage.png');
+  background: url('./resources/bannerimage.png');
   /* background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0) 100%),
     url('./resources/bannerimage.png'); */
 }

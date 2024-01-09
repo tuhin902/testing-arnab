@@ -1,13 +1,3 @@
-/* shared style */
-/* Merriweather font
-font-family: "Merriweather", serif;
-  font-family: "Open Sans", sans-serif;
-*/
-/* Inter font
-font-family: 'Inter', sans-serif;
-font-family: 'Merriweather', serif;
-font-family: 'Open Sans', sans-serif;
- */
 body {
   font-family: "Merriweather", serif;
   font-family: "Open Sans", sans-serif;
@@ -21,9 +11,9 @@ body {
   margin: 50px auto;
   background-repeat: no-repeat;
   border-radius: 16px;
-  background-image: url("../resources/Banner_Image.png");
+  background-image: url('./resources/banner_image.png');
   background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0) 100%),
-    url("../resources/Banner_Image.png");
+    url('./resources/banner_image.png');
 }
 .banner-text {
   padding: 120px;
@@ -96,9 +86,9 @@ body {
   margin: 120px auto;
   background-repeat: no-repeat;
   border-radius: 16px;
-  background-image: url("../resources/Vectorrr.png");
+  background-image: url('./resources/vector.png');
   background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0) 100%),
-    url("/resources/Vectorrr.png");
+    url('./resources/vector.png');
 }
 .welcome-banner-content {
   align-items: center;
